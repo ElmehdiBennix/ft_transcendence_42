@@ -79,6 +79,7 @@ This project creates a web-based Pong game platform where users can:
    cd ft_transcendence
    mv template.env .env
    make
+   ```
 
 ## Development Guidelines
 
